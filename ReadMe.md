@@ -11,7 +11,6 @@
 
 ![](https://streak-stats.demolab.com/?user=Neeraj-Dhyani&theme=dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-Dhyani&theme=github_dark)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-Dhyani&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neeraj-Dhyani&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neeraj-Dhyani&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neeraj-Dhyani&theme=github_dark&utcOffset=5.5)<br/>
