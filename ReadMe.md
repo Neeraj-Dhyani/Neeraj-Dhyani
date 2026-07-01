@@ -13,7 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Dhyani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Neeraj-Dhyani&label=Profile+Views&color=0&icon=eye&pretty=true" alt="Profile views" />
-</p>
+![](https://komarev.com/ghpvc/?username=Neeraj-Dhyani&label=Profile%20Views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
