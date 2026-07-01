@@ -32,6 +32,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neeraj-Dhyani&theme=github_dark&utcOffset=5.5)<br/>
 
 ---
-<!--![](https://komarev.com/ghpvc/?username=Neeraj-Dhyani&label=Profile%20Views&color=0e75b6&style=flat)-->
-[![](https://visitcount.itsvg.in/api?id=Neeraj-Dhyani&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Neeraj-Dhyani&label=Profile%20Views&color=0e75b6&style=flat)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
